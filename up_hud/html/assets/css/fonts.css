@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Regular';
+    src: url(../fonts/EurostileNextLTPro-Regular.otf);
+}
+
+@font-face {
+    font-family: 'SemiBold';
+    src: url(../fonts/eurostile_next_lt_pro_semibold.ttf);
+}

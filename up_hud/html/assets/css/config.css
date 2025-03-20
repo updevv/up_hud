@@ -1,0 +1,43 @@
+:root{
+    --main-clr: #0a73df;
+    --main-clr2: #0F58C0;
+    --shadow-clr: rgba(255, 128, 0, 0.35);
+    --shadow-clr2: rgba(255, 128, 0, 0.55);
+
+    /* Speedo */
+
+    /*ou --speedo-progress-clr: rgba(0, 128, 255, 0.15);*/
+    --speedo-progress-clr: rgba(0, 128, 255, 0.15);
+    --fuel-clr: #0DD787;
+    --fuel-box-clr: rgba(13, 215, 135, 0.15);
+    --fuel-shadow-clr: rgba(13, 215, 135, 0.35);
+    --icns-active-clr: #0DD787;
+
+    /* Notifies */
+    --notify-clr1: rgba(255, 128, 0, 0.45);
+    --notify-progressbar-clr: rgba(255, 128, 0, 0.10);
+
+    /* Eat & Drink */
+    --box-drink-clr: rgba(2, 20, 36, 0.75);
+    --box-icn-drink-clr: rgba(0, 117, 255, 0.10);
+    --drink-clr1: #0075FF;
+    --drink-clr2: #004C83;
+
+    --box-health-clr: rgba(2, 20, 36, 0.75);
+    --box-icn-health-clr: rgba(0, 117, 255, 0.10);
+    --health-clr1: #00C851; /* Vert vif */
+    --health-clr2: #007835; /* Vert foncé */
+
+    --box-eat-clr: rgba(24, 15, 7, 0.75);
+    --box-icn-eat-clr: rgba(255, 136, 0, 0.10);
+    --eat-clr1: #FFA800;
+    --eat-clr2: #834F00;
+
+    /* Announce */
+    --job-announce-clr: #0F58C0;
+
+    /* Teamchat */
+    --team-notify-clr1: rgba(15, 88, 192, 0.45);
+    --team-notify-main-clr: #0F58C0;
+    --team-progressbar: rgba(15, 88, 192, 0.10);
+}
